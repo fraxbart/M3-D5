@@ -1,0 +1,45 @@
+
+.navbar-nav a{
+    color: rgb(13, 13, 70);
+    font-family: 'Inter', sans-serif;
+}
+.avatar img{
+    width:15%;
+    border-radius: 50%;
+    
+   
+}
+
+.jumbotron{
+    background-color: blueviolet !important;
+    padding-bottom: 0 !important; 
+}
+
+.container h2{
+    margin-top: 60px;
+}
+
+#raccomanded{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.avatar {
+    border-radius: 50%;
+    width: 18%;
+    height: 95%;
+}
+
+.corpo{
+    padding: 10px;
+}
+.card h5{
+    font-size: 18px;;
+}
+#popular{
+    margin-top: 30px;
+    margin-bottom: 30px;  
+}
+#trending{
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
